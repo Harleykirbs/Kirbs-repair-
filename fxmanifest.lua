@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'YourName'
+author 'kirbs'
 description 'Simple /Repair script For mechanics'
 version '1.0.0'
 
